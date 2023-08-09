@@ -3,6 +3,7 @@ The purpose of this project was to replicate the study by [Lee et al. (2022)](ht
 
 ```
 │projectdir
+│
 ├── src
 │   │
 │   ├── nb1_preprocessing.jl       <- Data preprocessing
