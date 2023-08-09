@@ -8,7 +8,7 @@ The purpose of this project was to replicate the study by [Lee et al. (2022)](ht
 │   │
 │   ├── nb1_preprocessing.jl       <- Data preprocessing
 │   │
-│   ├── nb2_featureExtraction.jl   <- Extraction of &mu; and &beta; band power features
+│   ├── nb2_featureExtraction.jl   <- Extraction of µ and β band power features
 │   │
 │   ├── nb3_epoching_erds.jl       <- Epoching (-0.5 to 7 s) and calculating event-related (de)synchronization (ERD/S)
 │   │
