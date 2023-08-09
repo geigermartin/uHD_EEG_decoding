@@ -39,7 +39,7 @@ Comparison of an obtained ERD/S topography plot:
 
 Mean accuracy for pairwise classification with SVM:
 
-![classification_accuracy_SVM](img/classification_accuracy_SVM.jpg)
+<img src="./img/classification_accuracy_SVM.jpg" alt="classification_accuracy_SVM" width="400" height="200"/>
 
 ## Usage
 Navigate in a shell to the current project and start a Julia session:
